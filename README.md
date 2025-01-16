@@ -1,2 +1,2 @@
-# Assignment_0
-All files for CSE_160 assignment 0
+# CSE_160
+All files for CSE_160 Winter quarter 2025
