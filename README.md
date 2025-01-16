@@ -1,2 +1,2 @@
-# CSE_160
-All coursework for CSE 160 Winter 2025
+# Assignment_0
+All files for CSE_160 assignment 0
